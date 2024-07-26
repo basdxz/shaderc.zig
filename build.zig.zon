@@ -9,16 +9,16 @@
     },
     .dependencies = .{
         .toolbox = .{
-            .url = "https://github.com/basdxz/toolbox/archive/90579e886cc4cee0be326e12e0579b869eb1340f.tar.gz",
-            .hash = "1220acade8e0e92b68c4716a9eb0e56ef7b91290bd3e5e5712d11ba8f51159a28550",
+            .url = "https://github.com/basdxz/toolbox/archive/75c0dc7bacd435d5ed12b6376d667ac01c35b625.tar.gz",
+            .hash = "1220a1b9e73fa4dc3eeafe289f56a5f5125b2c799463271769c6248ad6b83c843f92",
         },
         .glslang = .{
-            .url = "https://github.com/basdxz/glslang.zig/archive/6dec0661f604b3fcc13e991ceee83a5b3321d9ad.tar.gz",
-            .hash = "122035c3b42dcade4874e39ec0d829f05a6db1badb42d5852e11a1ad81670dfdf640",
+            .url = "https://github.com/basdxz/glslang.zig/archive/1be9f52d35b1385bbf198062a01e15ed00d5609b.tar.gz",
+            .hash = "1220d80049fcf6c97c0ae573173575ca2aa13a161985af0d5ac429138d482732e971",
         },
         .spirv = .{
-            .url = "https://github.com/basdxz/spirv.zig/archive/5744492787ea186d4af74e12d69c111967101dbc.tar.gz",
-            .hash = "12204eebed067f87273c6f6d63521a0b07740fa2278c336d3893a98b445f9edb5d87",
+            .url = "https://github.com/basdxz/spirv.zig/archive/3e2997add71acb149cf3e6eed2e35f17e86e24bc.tar.gz",
+            .hash = "122082af6e308719a660fa8c28c684c336c7dab28553056a638c5f9292a26a326978",
         },
     },
 }
